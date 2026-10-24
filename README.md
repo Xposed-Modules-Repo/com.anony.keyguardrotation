@@ -3,7 +3,6 @@
   <p>
     <strong>Unlock screen rotation on your Android Lock Screen (Keyguard).</strong>
   </p>
-  <br>
 </div>
 
 ## Description
